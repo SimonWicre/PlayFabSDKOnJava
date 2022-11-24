@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="client-sdk-0.144.220118">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/client-sdk-0.144.220118.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/combo-sdk-0.144.220118.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gson-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
